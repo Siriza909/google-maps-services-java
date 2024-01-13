@@ -1,0 +1,4 @@
+<com.google.android.gms.maps.MapView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    ....
+    map:mapId="@string/map_id" />
